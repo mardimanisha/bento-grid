@@ -11,6 +11,9 @@ module.exports = {
         White: "hsl(0, 0%, 100%)",
         Black: "hsl(0, 0%, 7%)",
       },
+      fontFamily: {
+        sans: ["DM Sans", "sans-serif"],
+      },
     },
   },
   plugins: [],
